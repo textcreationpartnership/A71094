@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender salutation of endeared love to all that sincerely believe in, and unfeignedly love our blessed Lord, and for ever to be admired Saviour and adored advocate, Jesus Christ. With something of Christian advice, and seasonable counsel, for the encouraging of the faithful, to be noble in their confessing to, and owning of their glorious captain; and to contend earnestly for the faith which was once delivered to the saints. From one who truly prises it above all visibles here below, in this fading world, to be found at last in the close of all, though but as one of the least of them, who are right dear and precious in the sight of the Lord. Mary Sandilands.</title>
+            <author>Sandilands, Mary.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71094</idno><idno type="EEBO-CITATION">99825508</idno>
+  <idno type="VID">29891</idno>
+  <idno type="EEBO-PROQUEST">2264209246</idno>
+  
+            <idno type="STC">Wing S654</idno>
+            <idno type="STC">ESTC R212912</idno>
+            <idno type="PROQUEST">99825508</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825508e"/>
+            <note>(EEBO-TCP ; phase 2, no. A71094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2133:07; 2216:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender salutation of endeared love to all that sincerely believe in, and unfeignedly love our blessed Lord, and for ever to be admired Saviour and adored advocate, Jesus Christ. With something of Christian advice, and seasonable counsel, for the encouraging of the faithful, to be noble in their confessing to, and owning of their glorious captain; and to contend earnestly for the faith which was once delivered to the saints. From one who truly prises it above all visibles here below, in this fading world, to be found at last in the close of all, though but as one of the least of them, who are right dear and precious in the sight of the Lord. Mary Sandilands.</title>
+                  <author>Sandilands, Mary.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Bradford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Friends House Library, London (reel 2133) and the Swarthmore College, Pennsylvania (reel 2216).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29891:1"/>
+            <p>A Tender SALUTATION Of Endeared LOVE, To all that Sincerely Believe in, and Unfeignedly Love our Blessed LORD, and for ever to be Admired SAVIOUR and Adored Advocate, <hi>Iesus Christ.</hi>
+            </p>
+            <p>With something of Christian Advice, and Seasonable Counsel, For the Encouraging of the Faithful, to be Noble in their Confessing to, and Owning of their Glorious Captain; and to Contend earnestly for the Faith which was once delivered to the Saints.</p>
+            <p>From one who truly prises it above all Visibles here below, in this fading World, to be found at last in the close of all, though but as one of the least of them, who are right dear and precious in the sight of the Lord. <hi>Mary Sandilands.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Matth. 10.32.</hi>
+               </bibl>
+               <p>Whosoever <hi>(said Christ)</hi> shall Confess me before Men, him will I confess before my Father which is in Heaven. (But) whosoever shall be ashamed of me, and of my Words, of him shall the Son be ashamed, when he shall come in his own Glory, and in his Father's, and of the Holy Angels.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Bradford,</hi> in the Year 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:29891:2"/>
+            <pb n="3" facs="tcp:29891:2"/>
+            <head>To all Sincere Believers in our Blessed Lord Jesus Christ, a Tender Salutation of Ʋnfeigned Love, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>IN a deep sence of the unspeakable Love of God, through his dear Son Christ Jesus, are you often brought before me, and in the lasting fellowship and glorious Gospel of Life and Salvation, are you right dear and near unto me, and in true humility of Soul there is many times a weighty concern and exercise upon my Spirit, that we may Travel on all to<g ref="char:EOLhyphen"/>gether, being stedfast in the precious Faith of our elect and holy Head, glorious Advocat, and everliving High-Priest, who is for ever worthy to be dearly owned and reverently con<g ref="char:EOLhyphen"/>fessed unto, as being the Author of Eternal Salvation unto all them that do obey him.</p>
+            <p>And indeed, he is most worthy of all our love, who with a victorious patience endured, from Sinners, those wicked Scof<g ref="char:EOLhyphen"/>fings and reproachful Revillings, his most pure Head being crowned with a Crown of Thorns, his Underfiled Hands and Feet nailed to the Cross, his Lovely Face spit upon, and his Precious Side pierced through with a Spear, bearing our Sins in his own Body; Dyed the most reproachful and shameful Death his Enemies could either imagin or inflict; and so he that was wholly without Sin, and was, and is the <hi>Immaculate Lamb of God,</hi> was made a Curse for our Sins, according as it's written, <hi>Cursed is every one that hangeth upon a Tree,</hi> Gal. 3.13. It is he who hath redeemed us from the Curse of the Law, that we might receive the Adoption of Sons, which is by Faith in him who laid down his Precious Life for us: For as said the Holy Apostle, <hi>Ye are all the Children of God by Faith in
+<pb n="4" facs="tcp:29891:3"/>Christ Jesus:</hi> And the Scripture hath concluded <hi>all under Sin,</hi> that the Promise by <hi>Faith of Jesus Christ</hi> might be given to them that believe.</p>
+            <p>And surely (we may well say with the Evangelical Pro<g ref="char:EOLhyphen"/>phet, <hi>Isa.</hi> 53.4, 5.) <hi>He hath born our Griefs, and carried our Sorrows; he was wounded for our Transgressions; he was bruised for our Iniquities, the Chastisement of our Peace was upon him, and with his Stripes we are healed.</hi>
+            </p>
+            <p>The Living Commemoration of these things, in the Open<g ref="char:EOLhyphen"/>ing Power and Spirit of God in the Soul, is truly very pre<g ref="char:EOLhyphen"/>cious and comfortable, and many times arises, in a daily re<g ref="char:EOLhyphen"/>newed sence, thereof a Holy Admiration of the unspeakable Heighth and Depth of the Riches of the Love of God in Christ Jesus, which Saints and Angels will admire to all Eternity.</p>
+            <p>And, <hi>dear Friends,</hi> it is my earnest Desire, that we may be an Inward Retired People to the <hi>Measure</hi> and <hi>Manifestation of the Spirit,</hi> the Apostle spoke of in his Day, which <hi>is given to all to profit. with;</hi> and to keep in the Daily Exercise of it, and so <hi>grow in the Grace of God,</hi> and in the <hi>Experimental Knowledge of our blessed Lord and Saviour Jesus Christ,</hi> that our Understandings may be opened more and more, Savingly to know and understand the Great Mysteries of GOD and of CHRIST, as they are revealed and discovered by the Divine Light of the glorious Son of Righteousness, the great Enlightner of all Mankind: For it is in his Light we shall see more Light; and by a dili<g ref="char:EOLhyphen"/>gent keeping to it, and following of it, it will lead to the glorious Sun which is in Heaven, even as certainly as a Beam or Ray of the Natural Sun in the Firmament, if it be follow<g ref="char:EOLhyphen"/>ed by the light of the outward Eye, will lead naturally to the Body of the Sun it self, which as it cannot be confined to any one particular place here upon Earth, but Universally sends forth its Influences of Light and Heat to all the World, so cannot this be contained in any one place: And as none can have a true discerning where the outward Sun is, but by his own Light, so none can have any true Spiritual Sight of the Celestial Sun, but by a Divine Beam and Ray of his own
+<pb n="5" facs="tcp:29891:3"/>Light, that shines into the Souls of all, and flows from that Rich Fulness which is in the <hi>Man Christ,</hi> the one Only Mediator betwixt God and Men, who is gone into Heaven, and is on the Right Hand of God in the glorified Nature of Man; Angels, Authorities and Powers being made subject un<g ref="char:EOLhyphen"/>to him, and by his Death, and Sufferings, and <hi>shedding</hi> of his <hi>Precious Blood</hi> without the Gates of <hi>Jerusalem,</hi> together with his most perfect Obedience, Patience and Resignation to the Will of God, and by his glorious Resurrection. As<g ref="char:EOLhyphen"/>cention and Intercession, he hath both procured, and also doth dispense all good unto us, and all Blessings, Spiritu<g ref="char:EOLhyphen"/>al and Temproral, that we enjoy: It is for his sake, and through and by him, that we receive them, and are conveyed to us; who is our great High-Priest that is passed into the Heavens, which is touched with the feeling of our Infirmities. And this Man (viz. Jesus the Son of God) because he <hi>continueth forever,</hi> Heb. 7.24.25. <hi>hath an unchangeable. Priesthood, wherefore he is able also to save us to the uttermost that come to God by him, seeing he ever liveth to make Intercession for us.</hi>
+            </p>
+            <p>Therefore as he is the true and proper <hi>Object of Faith,</hi> he is most worthy to be owned and confessed unto; and it is <hi>those that confess him before Men, that he well confess before his Father which is in Heaven.</hi> This was spoke by him concerning those that should confess to him as he was, and is an Undivided Christ, and reverently own him as he was, and as he now is, and as he is to come, and daily do ex<g ref="char:EOLhyphen"/>press their sincere love towards him, by keeping of his Commandments, which he doth injoyn all his Desciples to, according to that saying of his, <hi>If ye love me, keep my Com<g ref="char:EOLhyphen"/>mandments; and ye are my Disciples, if ye do whatsoever I com<g ref="char:EOLhyphen"/>mand you.</hi> Telling them also, how they should be enabled to keep them, by the Comparison he made of the <hi>Bran<g ref="char:EOLhyphen"/>ches abiding in the Vine,</hi> or else they could not bear Fruit; <hi>No more</hi> (said he) <hi>can you, unless ye abide in me.</hi> And it is plain as by many Scripture-Testimonies, so also the true. Believer, in Christ Jesus have experience, that all Evangeli<g ref="char:EOLhyphen"/>cal fruits of Righteousness and Holiness are brought forth
+<pb n="6" facs="tcp:29891:4"/>by the Vertue and Power of Christ, and that whatever Obedience any may bring forth or be found in from a bare Conviction of Sin, which is from God's Love and first Dispensation to all Mankind, and is a Preparative for the second and more Glorious Ministration, yet it is all but legal and as from the Servants state; and its said, <hi>The Servant abideth not in the House forever, but the Son.</hi>
+            </p>
+            <p>
+               <hi>Wherefore,</hi> said (the Apostle) Gal. 3.24, 25. <hi>The Law was our School-Master to bring us unto Christ, that we might be justi<g ref="char:EOLhyphen"/>fied by Faith. But after that Faith is come, we are no longer un<g ref="char:EOLhyphen"/>der a School-Master.</hi> And the Law of Old, altho' it was truly observed and strictly kept, yet we know that made not the comers thereunto perfect, as partaining to the Conscience, but the bringing in of a better hope did; which <hi>hope</hi> is <hi>Christ,</hi> which was to the Antients as an <hi>Anchor,</hi> (Heb. 6.19.) most sure and stedfast, and was the ground and foundation of the Faith of all the Generations of the Just, from Righteous <hi>Abel</hi> unto this very day; and it was in the Faith <hi>Abel</hi> of<g ref="char:EOLhyphen"/>fered to God a more excellent Sacrifice than <hi>Cain.</hi> And when the Author to the <hi>Hebrews</hi> had mentioned many of the Wor<g ref="char:EOLhyphen"/>thies of Old, which time would fail to mention; but says he, <hi>They all dyed in the Faith, not having received the Promises, but having seen them afar off, and were perswaded of them, and embraced them with joy,</hi> (Heb. 11.13.) as faithful <hi>Abraham</hi> did, who by the Eye of Faith saw the Day of the fulfilling of them, for it is said, that he rejoyced to see Christ's Day, and he saw it and was glad. And says he, <hi>All these having ob<g ref="char:EOLhyphen"/>tained a good report through Faith, received not the Promise.</hi> God having (observe) provided or fore-seen some better thing for us, that they without us should not be made perfect; which is to be witnessed in and by our blessed Redeemer, Christ Je<g ref="char:EOLhyphen"/>sus, and through the Powerful, operations of his divine Spirit in the Hearts of all sincere Believers.</p>
+            <p>And as it was of absolute necessity, and of great benefit and comfort to all God's People, that were before our Blessed Lord Jesus was Born of the Virgin <hi>Mary,</hi> to look forward to his outward Coming, Death and Susterings for the Remission of Sins, Peace, and Reconciliation, <hi>&amp;c.</hi> So is it likewise now no
+<pb n="7" facs="tcp:29891:4"/>less necessary for all true Believers to look back with the Eye of Faith, unto the blessed Day that the Lord Jesus Christ offered up himself freely once for all, as a most Acceptable and All-sufficient Sacrifice of Attonement unto God for our Sins, and Propitiation for the Sins of the whole World, by which his Wrath was appeased, and Divine Justice satisfied. For it was by his own Blood he obtained Eternal Redemption, and having made Peace through the Blood of his Cross, by him to reconcile all things unto himself, whether they be Things in Heaven, or Things in Earth; by which Blood he hath made us night to God, who sometimes were after off; and by the Merit and Virtue of which Precious Blood of the Im<g ref="char:EOLhyphen"/>maculate Lamb, even that which was <hi>shed without the Gates of Jerusalem,</hi> are we both Justified and Sanctified, as we come to have <hi>a Living Faith</hi> therein; and as the Divine Virtue and Efficacy thereof is opened and applied to us by the Holy Spirit. For <hi>God commended his Love towards us, in that while we were yet Sinners, Christ dyed for us: Much more then being now justified by his Blood, we shall be saved from Wrath by him,</hi> Rom. 5.8, 9. <hi>Wherefore Jesus also, that he might Sanctifie the People with his own Blood, suffered without the Gate,</hi> &amp;c. Heb. 13.12.</p>
+            <p>It is indeed a Mercy greatly to be prised, that we have the Knowledge of these things, as they are left upon Record in the Holy Scriptures, which were written for our Instruction and Learning; the Spirit of the Lord also in our Hearts evi<g ref="char:EOLhyphen"/>dencing to the Verity thereof, by which they are made very useful and comfortable to us in our serious diligent Reading of them; which ought to be preferr'd before all other Books whatsoever.</p>
+            <p>Let us therefore as with one Mouth, bless the Lord, and say with holy <hi>David,</hi> (Psalm 103.1, 2, 3.) <hi>O my Soul, bless the Lord, and all that is within me Bless his Holy Name: Bless the Lord, O my Soul, and forget not all his benefits, who forgiveth all thine Iniquities, who healeth all thy Diseases,</hi> &amp;c. Let us remember all his Mercies, and Tender Dealings, and his manifold renewed Tokens of his Love and fresh Visitations, by which we have been encouraged to Travel on towards that everlasting City of eternal repose, where all Tears shall be wiped away, and
+<pb n="8" facs="tcp:29891:5"/>all Sighing shall come to an end; there the Wicked cease from troubling, and the Weary be at Rest. We have cause to say with his Servant of Old, (John 10.12.) <hi>Thou hast granted me life and favour, and thy Visitation hath preserved my Spirit.</hi>
+            </p>
+            <p>We are under great Obligations to walk with all Circum spection before him, adorning the glorious Gospel of our Blessed Lord and Saviour Jesus Christ, in Holiness of Life and Conversation, that so none may have any just accasion to spake evilly of us; but if they will through Prejudice or Ma<g ref="char:EOLhyphen"/>lice, let it be for Jesus sake, who said, <hi>Blessed are ye when men shall Revile you, and Persecute you, and shall say all manner of evil of you Falsly for my sake, rejoice and be exceeding glad, for great is your Remard in Heaven; for so Persecuted they the Prophets which were before you.</hi>
+            </p>
+            <p>And as he hath graciously promised, he will also faithfully perform it, to all his true Followers, who have no sinister or by-end in professing him, but sincerely loves him, and have him in their Hearts, and that in all Respects, in all his Offices, as he is King, Priest and Prophet in Heaven, Without us, as well as he is Within us; owns both his Outward and Inward Appearance; they dare not divide the one from the other, nor set the one in opposition to the other, which God in his infinit Wisdom hath so necessarily joyned together as the great means of the Salvation of Mankind.</p>
+            <p>And upon Christ, thus undivided, even upon the same <hi>Jesus of Nazareth,</hi> whom the <hi>Jews</hi> slew, and hanged on a Tree, and whom God by his mighty Power raised up again the third Day; even him whom God hath exalted with his Right Hand, to be a Prince and Saviour for to give Repentance unto <hi>Israel</hi> and forgiveness of Sins; I say, on this <hi>Jesus,</hi> who was Crucified for us, and is now sat on the Right Hand of the Majesty on High in the Heavens, do they depend (as all sincere-hearted <hi>Christians</hi> do) for Life and Salvation, and not upon any Works of Righteousness, or even any Obedience, or the best Service we are enabled to do by the gracious assistance of his Spirit; as he said (by way of caution lest they might imagin that they merited Life by their service, or be to much self-conceited <hi>&amp;c.</hi>) Luk. 17.10. <hi>When ye shall have
+<pb n="9" facs="tcp:29891:5"/>done all these things, which are Commanded, you say, we are un<g ref="char:EOLhyphen"/>profitable Servants, we have done that which is our duty.</hi> So here is all vain Boasting excluded, and by all our Performances, there is to be no claiming a right or title, by way of Merit, to the Kingdom of God; for it is <hi>by Grace</hi> (free unmerited Grace) that we are <hi>saved through Faith,</hi> in our Lord Jesus, <hi>and that not of our selves: It is the Gift of God; Not of Works, lest any man should boast,</hi> Ephes 2.8, 9.</p>
+            <p>Such as before is said, who sincerely love our <hi>dear lord Jesus,</hi> and nobly Confess him, for his dear Names-sake, and can say, that they count all things, even all their <hi>own Righte<g ref="char:EOLhyphen"/>ousness,</hi> as the Apostle did, <hi>Phil.</hi> 3.9. but <hi>as dung and dross</hi> in comparision of Christ, and to be found in him, <hi>not having our own righteousness which is of the Law, but that which is through the Faith of Christ,</hi> &amp;c.</p>
+            <p>It is for you, <hi>Friends,</hi> that Christ is gone before to prepare a Place in the Heavenly Mansions of Glory, whom he will Own and Confess (as you Persevere Faithful to the End) in that Great and Last Day of General Account, when all Nations shall stand before him, and he will seperate one from another, as a Sheepherd divideth his Sheep from the Goats, setting the Sheep on his Right Hand, and the Goats on his Left Hand, and will say to the Sheep, <hi>Come ye blessed of my Father, inherit the Kingdom prepared for you from the Foundation of the World.</hi>
+            </p>
+            <p>With undaunted Courage therefore, and with a Holy Boldness, let us hold fast the Profession of our Faith, <hi>look<g ref="char:EOLhyphen"/>ing unto Jesus, who is the Author, and the Finisher thereof he will be,</hi> as we continue in his Word, (Heb. 12.2.) <hi>Who for the Joy that was set before him, endured the Cross, despising the Shame, and is set down at the Right Hand of the Throne of God:</hi> Whom although we have not seen (with our Bo<g ref="char:EOLhyphen"/>dily Eyes) <hi>we love, in whom though now we see him not,</hi> yet believing, <hi>we rejoyce with joy unspeakable and full of Glory,</hi> (1 Pet. 1.8.) who is not entered into the Holy Places made with Hands, which are the Figures of the true, but into
+<pb n="10" facs="tcp:29891:6"/>Heaven it self, now to appear in the Presence of God for us; and he hath made the <hi>same Jesus,</hi> whom the <hi>Jews</hi> Crucified, both Lord and Christ. And as said the Apostle to the be<g ref="char:EOLhyphen"/>lieving <hi>Corinthians,</hi> unto whom he Zealously Preached <hi>Christ Crucified:</hi> and among whom <hi>he determined not to know any thing,</hi> (1 Cor. 2.2.) <hi>save Jesus Christ, and him Crucified,</hi> for says he in 2 Cor. 8.9. <hi>Ye know the Grace of our Lord Jesus Christ, that though he was Rich, yet for your sake</hi> (and ours too) <hi>he became poor, that ye through his Poverty might be Rich.</hi>
+            </p>
+            <p>And <hi>when he shall Change our vile Bodies, that they may be fashi<g ref="char:EOLhyphen"/>oned like unto his Glorious Body, according to the working whereby he is able to subdue all things to himself;</hi> Phil. 2.21. Then shall we and all Saints be compleatly Rich, and Everlastingly Happy in all respects. And this Riches which our <hi>Blessed Lord Jesus</hi> will give unto all his Faithful Followers, and True Believers in him (and which now in time doth give an Earnest of) is truly worthy our diligent seeking after, above all things visible: It being a Portion that none can deprive us of; and the real Enjoyment of it in any measure, is very comfortable and supporting in the time of great Need, when we shall leave this World, and Launch into the Boundless Ocean of Eter<g ref="char:EOLhyphen"/>nity: O then, no bare Profession of Religion, though never so refined, will stand us in any stead, but only the real <hi>Possession of the Life thereof;</hi> as Blessed be the Lord, I can speak something by Experience, having been often much vi<g ref="char:EOLhyphen"/>sited with Bodily Weakness; which through Mercy, I have been helped to bear, and Esteem it as that which my Hea<g ref="char:EOLhyphen"/>venly Father saw best for me. And when I have been weak and low, not knowing whether the Lord would be pleased to restore me to Bodily Health again (which Blessed be his Ho<g ref="char:EOLhyphen"/>ly Name, I now enjoy) far beyond what I have often ex<g ref="char:EOLhyphen"/>pected, I can truly say, that the Inward Meditation of the unspeakable Love of God to the Children of Men, through his dear Son, hath very deeply affected my Soul: And I hope, without any self-boasting at all, but to the praise only of the most Worthy Name of my Dear Lord, be it spoken, he hath been pleased of late time, to reyeal and demonstrate to
+<pb n="11" facs="tcp:29891:6"/>my Understanding; both Immediately and Instrumentally: divers weighty precious Gospel Truths, necessary to Salva<g ref="char:EOLhyphen"/>tion; and they are more clearly opened to me then formerly, though the Lord knows I have in the Sincerity of my Heart desired; and that in the deep Humility of my Soul, the true and living Knowledge of those things which appertain to our Eternal Peace and Everlasting: Well-being with him for ever.</p>
+            <p>Now <hi>Friends,</hi> being right sensible, that the time hastens one apace upon us all, that nothing can stand in any stead, but a true Interest in Christ; and a full Assurance through his spi<g ref="char:EOLhyphen"/>rit in our Hearts, that we have a right to that Incorruptible Inheritance which is received through Faith in him: And now through his great Love and Mercy, he hath brought me truly to esteem Him, his Doctrine and Truth, more than ever; I trust it shall be my greatest concern, while I have a being, through his Divine Aid and Assistance, to exalt him over all, and to Confess him, and to Follow him whithersoever he Leads, whatsoever Oppositions or Discouragements I may meet with in the way.</p>
+            <p>So being, through the great goodness of God, in a true Sence of these things, my Heart is opened in tender Love to the whole Flock and Family of Christ, where-ever disper<g ref="char:EOLhyphen"/>sed, and under what Denomination, or by what Profession soever distinguished, even all who Sincerly Love our Blessed <hi>Lord Jesus,</hi> and truly believe in him, and depend only upon him for Life and Salvation, who are given up to Honuor him in their Day, by a Sober and Christian Life, in Faithful<g ref="char:EOLhyphen"/>ness and Obedience to the Measure of Light and Dispensation of Grace, and Knowledge they have received, desiring to advance further, and come nearer to the Lord. Unto all such, without respect to Persons, is the Salutation of Unfeigned Love Universally extended in that never-dying Life of our Blessed and only supream Head, and Glorious Captain of our Salvation, the <hi>Lord Jesus Christ;</hi> in some measure of whose pure Life and Heavenly Presence, I have felt a concern upon
+<pb n="12" facs="tcp:29891:7"/>me for some time to write these things, for the stirring up the pure Mind in all, by way of Remembrance, of the many Ob<g ref="char:EOLhyphen"/>ligations we are under, that so we all together may persever to the End, and Joyn together as one Man, in contending only <hi>for the Faith that was once delivered to the Saints,</hi> with holy Zeal, but truly qualified by the Spiris of Love and Meekness; and so fight the good <hi>Fight of Faith,</hi> and finish our course with Joy; and in the end, receive the Everlasting. Crown of Life and Glory, which God hath laid up in store for all who truly be<g ref="char:EOLhyphen"/>lieve in, and sincerly Love the Blessed Appearance of our dear Lord and Saviour Jesus Christ; To whom be Glory both now and forever; <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Reading,</hi>
+                  <date>the 5th. Month, 1696.</date>
+               </dateline>
+               <signed>Mary Sandilands.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
